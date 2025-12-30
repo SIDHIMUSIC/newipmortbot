@@ -27,10 +27,10 @@ except Exception:
 # ================= 🔧 CONFIGURATION =================
 
 # 🔴 1. TELEGRAM BOT TOKEN (From @BotFather)
-TELEGRAM_BOT_TOKEN = "8250223012:AAGcHRkFqM4laaboLhbDVZ_fHdDYAHH_lIk"
+TELEGRAM_BOT_TOKEN = "7840758074:AAH5Xs8JjByXwpQfK5vnTS8YiEgHMptmlRQ"
 
 # 🟢 2. GROQ API KEY
-GROQ_API_KEY = "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"
+GROQ_API_KEY = "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"
 
 # 📢 3. CHANNEL & BRANDING
 REQUIRED_CHANNEL = "@Codeninja_vik"
